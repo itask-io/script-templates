@@ -1,0 +1,1 @@
+%taskt_path% "%cd%\%taskt_filename%"

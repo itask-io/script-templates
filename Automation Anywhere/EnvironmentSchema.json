@@ -1,0 +1,1 @@
+[{"key":"aa_filename","label":".atmx file name to run.For example demo.atmx","type":"text","rules":{"required":true}},{"key":"aa_project","type":"file","label":"Automation Anywere project files","definition":"Project files prepared with Automaion Anywere (zip)","rules":{"required":true}}]

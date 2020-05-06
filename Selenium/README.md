@@ -1,0 +1,1 @@
+Selenium automates browsers.Selenium automates browsers. That's it! What you do with that power is entirely up to you.

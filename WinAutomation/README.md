@@ -1,0 +1,1 @@
+WinAutomation can automate ANY windows-based task you can imagine

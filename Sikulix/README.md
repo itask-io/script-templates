@@ -1,0 +1,1 @@
+SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix.

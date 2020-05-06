@@ -1,0 +1,1 @@
+UiPath is a global software company that develops a platform for robotic process automation.
